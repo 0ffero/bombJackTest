@@ -1,65 +1,11 @@
-<!--
-    BOMBJACK REMAKE IN WEBGL (WITH FALLBACK FOR CANVAS)
-    CREATED BY 0ffero - 04
-
-    DONE
-    ----
-    v0.1    IMPLEMENTED FIRST LEVEL, SIMPLE MOVEMENT (WITH NO JUMPING ANIMATIONS), GFX FOR BOMBS, BACKGROUNDS AND PLAYER (SIMPLE)
-    V0.2    IMPLEMENTED ALL LEVELS - UPDATED CONTROL SYSTEM
-    V0.3    ANIMATIONS FOR WALKING FLYING AND STANDING ARE ALL DONE, REDONE USER CONTROL TO BE AS CLOSE TO THE ORIGINAL GAME
-    V0.4    BACKGROUND IMAGES NOW SWITCH AS PER ORIGINAL GAME
-    V0.50   STARTED IMPLEMENTING PROPER COLOURS FOR PLATFORMS (WAS ORIGINALLY USING A STANDARD ORANGE THEN MODIFYING ITS COLOR AT RUNTIME. THIS MADE STANDARD PLATFORMS LOOK LIKE SHIT THOUGH)
-    v0.51   BUILD START SCREEN (animated and hires), INTRO FOR LEVELS, SCORES SCREEN ETC
-    V0.6    SOUND
-    V0.7    ADD BOMB ANIMATIONS AND SET ORDER (USED FOR CREATING PATH FOR THE PLAYER - PICKING UP THE BOMB READY TO EXPLODE GIVES 200 POINTS INSTEAD OF 100)
-    V0.8    ADD ENEMIES & COLLECTABLES <--- YEAH THIS IS A BIG ONE o.0
-    v0.81   ADDED BIRD ENEMY AND BASIC CHECKS FOR MOVEMENT - STILL TO DO: CHECK FOR OTHER BIRDS, MODIFY CHECKS BASED ON IMAGE IN BUGS
-    v0.82   ADDED 2 COLLECTABLES: BONUS BALL AND POWER BALL
-    v0.83   ADDED EXTRALFE FUNCTIONALITY, ADDING REMOVE LIFE FEATURE
-    v0.84   ADDED INVISIBLE WALLS AS WELL AS ROBOTS
-    V0.85   RESPAWN ROBOTS WHEN THEYVE BEEN COLLECTED
-
-    CURRENT
-    -------
-    V0.90-0.98  IMPLEMENT ALL GAMEPLAY MECHANICS ON http://www.bomb-jack.com/history_of_bombjack.htm
-    V0.91   IMPLEMENTED MAIN SCREEN
-    
-    FUTURE PRE-PRE-RELEASE
-    ----------------------
-    V0.99       FIX ALL BUGS
-
-    FUTURE RELEASE
-    --------------
-    v1.0 - FULL PLAYABLE BUGS FIXED - TBA - WILL ROUGHLY REPLICATE THE ARCADE GAME. ENEMY MOVEMENT WILL PROBABLY BE DIFFERENT
-    v1.1 - CHANGE THE WAY THE ANIMATED BACKGROUND ON THE FIRST SCREEN WORKS, ADD ANY MISSING ANIMATIONS
-
-
-    BUGS
-    ----
-    HOLDING JUMP WILL MAKE YOU SLOWLY FLOAT TO THE GROUND - SHOULD ONLY COUNT THE JUMP IF THE USER LETS GO OF JUMP BEFORE ATTEMPTING A NEW JUMP
-
-    WTFS
-    ----
-    ROBOT FALLING FROM FIRST PLATFORM (ON LEVEL 1) DOES NOT EVOLVE FOR SOME REASON  <---- THIS NO LONGER HAPPENS. I MAY HAVE FIXED IT ACCIDENTALLY WHILST FIXING SOME OTHER BUG.... SO WEIRD
-
--->
 <!doctype html> 
 <html lang="en"> 
 <head> 
     <meta charset="UTF-8" />
     <title>BombJack Remake</title>
-    <script src="./js/frameworks/phaser322.min.js"></script>
-    <script src="./js/frameworks//howler.min.js"></script>
-    <script src="./js/audio.js"></script>
-    <script src="./js/levels.js"></script>
-    <script src="./js/animation.js"></script>
-    
-    <script src="./js/main.js"></script>
-    <script src="./js/init.js"></script>
-
-    <script src="./js/player.js"></script>
-    <script src="./js/enemy.js"></script>
-    <script src="./js/collectables.js"></script>
+    <script src="js/frameworks/phaser322.min.js"></script>
+    <script src="js/frameworks/howler.min.js"></script>
+    <script src="js/multi.js"></script>
     
     <style type="text/css">
         * { margin: 0; padding: 0; }
