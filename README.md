@@ -1,6 +1,6 @@
 # bombJackTest
 
-v0.97
+v0.99x
 
 Test Edition of BombJack - Not Suitable For Human Consumption... yet.
 
