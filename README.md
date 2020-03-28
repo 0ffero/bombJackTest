@@ -12,7 +12,7 @@ Implementing Hi Score stuff<br/>
 <br/>
 <b>KEYBOARD CONTROLS</b><br/>
 [🠜] and [🠞] move jack left and right. [space] to jump<br/>
-[+]  and [-] Volume Up and Down<br/>
+[<b>+</b>]  and [<b>-</b>] Volume Up and Down<br/>
 [S] Sound on/off<br/>
 [M] Music on/off<br/>
 <br/>
