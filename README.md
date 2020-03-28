@@ -6,6 +6,7 @@ Implementing Hi Score stuff<br/>
 <br/>
 STILL TO DO:<br/>
 Allow game to restart after player runs out of lives.<br/>
+    Easiest way to do this now that hi scores are being saved to local storage is simply to refresh the page. Totally unprofessional but       will do just now.
 <br/>
 <br/>
 Joypad can now be used.<br/>
