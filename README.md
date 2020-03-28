@@ -17,4 +17,4 @@ Any face button can be used to make Jack jump.<br/>
 Left Analogue Stick used to make Jack move left and right.<br/>
 <br/>
 <b>OTHER CONTROLS</b><br/>
-[Up] and [Down] arrows as well as [space] are used to enter your name onto the high score table
+[🠝] and [Down] arrows as well as [space] are used to enter your name onto the high score table
