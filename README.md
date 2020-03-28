@@ -23,4 +23,4 @@ Volume Up and Down controlled using DPAD Up and Down.<br/>
 Back button - Music on and off<br/>
 <br/>
 <b>OTHER CONTROLS</b><br/>
-[🠝] and [🠟] arrows as well as [space] are used to enter your name onto the high score table
+[🠝] and [🠟] arrows as well as [space] are used to enter your name onto the <b>high score table</b>
