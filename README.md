@@ -10,7 +10,7 @@ Implementing Hi Score stuff<br/>
     Easiest way to do this now that hi scores are being saved to local storage is simply to refresh the page. Totally unprofessional but will do just now.</li><li>Implement new way to decide where walkers will spawn</li></ul>
 <br/>
 <br/>
-##<b>KEYBOARD CONTROLS</b> ⌨️<br/>
+## <b>KEYBOARD CONTROLS</b> ⌨️<br/>
 [🠜] and [🠞] move jack left and right. [space] to jump<br/>
 [+]  and [-] Volume Up and Down<br/>
 [S] Sound on/off<br/>
