@@ -16,10 +16,10 @@ Allow game to restart after player runs out of lives.<br/>
 [M] Music on/off<br/>
 <br/>
 <b>JOYPAD</b><br/>
+Left Analogue Stick used to make Jack move left and right.<br/>
+Any face button can be used to make Jack jump.<br/>
 Volume Up and Down controlled using DPAD Up and Down.<br/>
 Back button - Music on and off<br/>
-Any face button can be used to make Jack jump.<br/>
-Left Analogue Stick used to make Jack move left and right.<br/>
 <br/>
 <b>OTHER CONTROLS</b><br/>
 [🠝] and [🠟] arrows as well as [space] are used to enter your name onto the high score table
