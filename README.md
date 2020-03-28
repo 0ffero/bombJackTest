@@ -1,7 +1,7 @@
 # bombJackTest
 Test Edition of BombJack - Not Suitable For Human Consumption... yet.<br/>
 <br/>
-<b>ALPHA 1.0 - Completed 27/3/20</b><br/>
+<b>ALPHA 1.0 - Completed 26/3/20</b><br/>
 <b>BETA 2.0</b><br/>
 Implementing Hi Score stuff<br/>
 <br/>
