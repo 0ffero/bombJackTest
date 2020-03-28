@@ -18,7 +18,7 @@ Implementing Hi Score stuff<br/>
 <br/>
 <b>JOYPAD</b><br/>
 Left Analogue Stick used to make Jack move left and right.<br/>
-Any face button (🔴🔵🟡🟢) can be used to make Jack jump.<br/>
+Any face button (<span style="zoom: 0.8">🔴🔵</span>🟡🟢) can be used to make Jack jump.<br/>
 Volume Up and Down controlled using DPAD Up and Down.<br/>
 Back button - Music on and off<br/>
 <br/>
