@@ -10,7 +10,12 @@ Allow game to restart after player runs out of lives.<br/>
 <br/>
 <br/>
 <b>KEYBOARD CONTROLS</b><br/>
-Joypad can now be used.<br/>
+[🠜] and [🠞] move jack left and right. [space] to jump<br/>
+[+]  and [-] Volume Up and Down<br/>
+[S] Sound on/off<br/>
+[M] Music on/off<br/>
+<br/>
+<b>JOYPAD</b><br/>
 Volume Up and Down controlled using DPAD Up and Down.<br/>
 Back button - Music on and off<br/>
 Any face button can be used to make Jack jump.<br/>
