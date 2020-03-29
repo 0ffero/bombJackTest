@@ -7,8 +7,12 @@ Test Edition of BombJack - Not Suitable For Human Consumption... yet.<br/>
 Implementing Hi Score stuff<br/>
 <br/>
 <b>STILL TO DO: 🚧</b><br/>
-<ul><li>Allow game to restart after player runs out of lives.<br/>
-    Easiest way to do this now that hi scores are being saved to local storage is simply to refresh the page. Totally unprofessional but will do just now.</li><li>Implement new way to decide where walkers will spawn</li><li>Add better pathing for birds</li></ul>
+<ul>
+    <li>Allow game to restart after player runs out of lives.<br/>
+    Easiest way to do this now that hi scores are being saved to local storage is simply to refresh the page. Totally unprofessional but will do just now.</li>
+    <li>Implement new way to decide where walkers will spawn (after the initial spawn on level)</li>
+    <li>Add better pathing for birds</li>
+</ul>
 <br/>
 <br/>
 <b>KEYBOARD CONTROLS ⌨️</b><br/>
